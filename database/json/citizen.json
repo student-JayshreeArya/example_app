@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "Pavitra Gupta",
+        "email" : "pavitra@gmail.com",
+        "age" : 56,
+        "city" : 2
+    },
+    {
+        "name" : "Ayushi Chandel",
+        "email" : "ayushi@gmail.com",
+        "age" : 56,
+        "city" : 2
+    },
+    {
+        "name" : "Harshita Kulkarni",
+        "email" : "harshita@gmail.com",
+        "age" : 28,
+        "city" : 4
+    },
+    {
+        "name" : "Aditi Sharma",
+        "email" : "aditi@gmail.com",
+        "age" : 39,
+        "city" : 1
+    },
+    {
+        "name" : "Lily Bajpayee",
+        "email" : "lily@gmail.com",
+        "age" : 54,
+        "city" : 3
+    },
+    {
+        "name" : "Jay Soni",
+        "email" : "jay@gmail.com",
+        "age" : 24,
+        "city" : 2
+    },
+    {
+        "name" : "Keerti Ahuja",
+        "email" : "Keerti@gmail.com",
+        "age" : 28,
+        "city" : 2
+    },
+    {
+        "name" : "Rajni Shinde",
+        "email" : "rajni@gmail.com",
+        "age" : 20,
+        "city" : 4
+    }
+]

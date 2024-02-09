@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "city_name" : "Gwalior"
+    },
+    {
+        "id" : 2,
+        "city_name" : "Ujjain"
+    },
+    {
+        "id" : 3,
+        "city_name" : "Indore"
+    },
+    {
+        "id" : 4,
+        "city_name" : "Bhopal"
+    },
+    {
+        "id" : 5,
+        "city_name" : "Jhansi"
+    }
+]

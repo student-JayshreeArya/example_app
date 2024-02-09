@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Kajal Tiwari",
+        "email" : "kajal@gmail.com",
+        "age" : 23,
+        "city" : 1
+    },
+    {
+        "name" : "Saumya Verma",
+        "email" : "saumya@gmail.com",
+        "age" : 29,
+        "city" : 2
+    },
+    {
+        "name" : "Preeti Gupta",
+        "email" : "preeti@gmail.com",
+        "age" : 23,
+        "city" : 1
+    },
+    {
+        "name" : "Harish Mehta",
+        "email" : "harish@gmail.com",
+        "age" : 34,
+        "city" : 2
+    },
+    {
+        "name" : "Bhumika Chaudhary",
+        "email" : "bhumi@gmail.com",
+        "age" : 39,
+        "city" : 4
+    }
+]
